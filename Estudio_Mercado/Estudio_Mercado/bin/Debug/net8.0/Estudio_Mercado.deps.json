@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Estudio_Mercado/1.0.0": {
+        "runtime": {
+          "Estudio_Mercado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estudio_Mercado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

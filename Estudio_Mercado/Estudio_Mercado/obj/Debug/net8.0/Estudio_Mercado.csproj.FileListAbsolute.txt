@@ -1,0 +1,14 @@
+C:\Users\CursosTardes\source\repos\Estudio_Mercado\Estudio_Mercado\bin\Debug\net8.0\Estudio_Mercado.exe
+C:\Users\CursosTardes\source\repos\Estudio_Mercado\Estudio_Mercado\bin\Debug\net8.0\Estudio_Mercado.deps.json
+C:\Users\CursosTardes\source\repos\Estudio_Mercado\Estudio_Mercado\bin\Debug\net8.0\Estudio_Mercado.runtimeconfig.json
+C:\Users\CursosTardes\source\repos\Estudio_Mercado\Estudio_Mercado\bin\Debug\net8.0\Estudio_Mercado.dll
+C:\Users\CursosTardes\source\repos\Estudio_Mercado\Estudio_Mercado\bin\Debug\net8.0\Estudio_Mercado.pdb
+C:\Users\CursosTardes\source\repos\Estudio_Mercado\Estudio_Mercado\obj\Debug\net8.0\Estudio_Mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CursosTardes\source\repos\Estudio_Mercado\Estudio_Mercado\obj\Debug\net8.0\Estudio_Mercado.AssemblyInfoInputs.cache
+C:\Users\CursosTardes\source\repos\Estudio_Mercado\Estudio_Mercado\obj\Debug\net8.0\Estudio_Mercado.AssemblyInfo.cs
+C:\Users\CursosTardes\source\repos\Estudio_Mercado\Estudio_Mercado\obj\Debug\net8.0\Estudio_Mercado.csproj.CoreCompileInputs.cache
+C:\Users\CursosTardes\source\repos\Estudio_Mercado\Estudio_Mercado\obj\Debug\net8.0\Estudio_Mercado.dll
+C:\Users\CursosTardes\source\repos\Estudio_Mercado\Estudio_Mercado\obj\Debug\net8.0\refint\Estudio_Mercado.dll
+C:\Users\CursosTardes\source\repos\Estudio_Mercado\Estudio_Mercado\obj\Debug\net8.0\Estudio_Mercado.pdb
+C:\Users\CursosTardes\source\repos\Estudio_Mercado\Estudio_Mercado\obj\Debug\net8.0\Estudio_Mercado.genruntimeconfig.cache
+C:\Users\CursosTardes\source\repos\Estudio_Mercado\Estudio_Mercado\obj\Debug\net8.0\ref\Estudio_Mercado.dll
