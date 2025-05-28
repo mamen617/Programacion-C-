@@ -1,0 +1,14 @@
+C:\Users\CursosTardes\source\repos\Ejercicio_Baloncesto\Ejercicio_Baloncesto\obj\Debug\net8.0\Ejercicio_Baloncesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CursosTardes\source\repos\Ejercicio_Baloncesto\Ejercicio_Baloncesto\obj\Debug\net8.0\Ejercicio_Baloncesto.AssemblyInfoInputs.cache
+C:\Users\CursosTardes\source\repos\Ejercicio_Baloncesto\Ejercicio_Baloncesto\obj\Debug\net8.0\Ejercicio_Baloncesto.AssemblyInfo.cs
+C:\Users\CursosTardes\source\repos\Ejercicio_Baloncesto\Ejercicio_Baloncesto\obj\Debug\net8.0\Ejercicio_Baloncesto.csproj.CoreCompileInputs.cache
+C:\Users\CursosTardes\source\repos\Ejercicio_Baloncesto\Ejercicio_Baloncesto\bin\Debug\net8.0\Ejercicio_Baloncesto.exe
+C:\Users\CursosTardes\source\repos\Ejercicio_Baloncesto\Ejercicio_Baloncesto\bin\Debug\net8.0\Ejercicio_Baloncesto.deps.json
+C:\Users\CursosTardes\source\repos\Ejercicio_Baloncesto\Ejercicio_Baloncesto\bin\Debug\net8.0\Ejercicio_Baloncesto.runtimeconfig.json
+C:\Users\CursosTardes\source\repos\Ejercicio_Baloncesto\Ejercicio_Baloncesto\bin\Debug\net8.0\Ejercicio_Baloncesto.dll
+C:\Users\CursosTardes\source\repos\Ejercicio_Baloncesto\Ejercicio_Baloncesto\bin\Debug\net8.0\Ejercicio_Baloncesto.pdb
+C:\Users\CursosTardes\source\repos\Ejercicio_Baloncesto\Ejercicio_Baloncesto\obj\Debug\net8.0\Ejercicio_Baloncesto.dll
+C:\Users\CursosTardes\source\repos\Ejercicio_Baloncesto\Ejercicio_Baloncesto\obj\Debug\net8.0\refint\Ejercicio_Baloncesto.dll
+C:\Users\CursosTardes\source\repos\Ejercicio_Baloncesto\Ejercicio_Baloncesto\obj\Debug\net8.0\Ejercicio_Baloncesto.pdb
+C:\Users\CursosTardes\source\repos\Ejercicio_Baloncesto\Ejercicio_Baloncesto\obj\Debug\net8.0\Ejercicio_Baloncesto.genruntimeconfig.cache
+C:\Users\CursosTardes\source\repos\Ejercicio_Baloncesto\Ejercicio_Baloncesto\obj\Debug\net8.0\ref\Ejercicio_Baloncesto.dll
