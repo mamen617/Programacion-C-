@@ -1,0 +1,14 @@
+C:\Users\CursosTardes\source\repos\Academia\Academia\bin\Debug\net8.0\Academia.exe
+C:\Users\CursosTardes\source\repos\Academia\Academia\bin\Debug\net8.0\Academia.deps.json
+C:\Users\CursosTardes\source\repos\Academia\Academia\bin\Debug\net8.0\Academia.runtimeconfig.json
+C:\Users\CursosTardes\source\repos\Academia\Academia\bin\Debug\net8.0\Academia.dll
+C:\Users\CursosTardes\source\repos\Academia\Academia\bin\Debug\net8.0\Academia.pdb
+C:\Users\CursosTardes\source\repos\Academia\Academia\obj\Debug\net8.0\Academia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CursosTardes\source\repos\Academia\Academia\obj\Debug\net8.0\Academia.AssemblyInfoInputs.cache
+C:\Users\CursosTardes\source\repos\Academia\Academia\obj\Debug\net8.0\Academia.AssemblyInfo.cs
+C:\Users\CursosTardes\source\repos\Academia\Academia\obj\Debug\net8.0\Academia.csproj.CoreCompileInputs.cache
+C:\Users\CursosTardes\source\repos\Academia\Academia\obj\Debug\net8.0\Academia.dll
+C:\Users\CursosTardes\source\repos\Academia\Academia\obj\Debug\net8.0\refint\Academia.dll
+C:\Users\CursosTardes\source\repos\Academia\Academia\obj\Debug\net8.0\Academia.pdb
+C:\Users\CursosTardes\source\repos\Academia\Academia\obj\Debug\net8.0\Academia.genruntimeconfig.cache
+C:\Users\CursosTardes\source\repos\Academia\Academia\obj\Debug\net8.0\ref\Academia.dll
