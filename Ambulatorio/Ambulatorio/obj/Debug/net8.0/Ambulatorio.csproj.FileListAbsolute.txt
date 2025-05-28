@@ -1,0 +1,14 @@
+C:\Users\CursosTardes\source\repos\Ambulatorio\Ambulatorio\obj\Debug\net8.0\Ambulatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CursosTardes\source\repos\Ambulatorio\Ambulatorio\obj\Debug\net8.0\Ambulatorio.AssemblyInfoInputs.cache
+C:\Users\CursosTardes\source\repos\Ambulatorio\Ambulatorio\obj\Debug\net8.0\Ambulatorio.AssemblyInfo.cs
+C:\Users\CursosTardes\source\repos\Ambulatorio\Ambulatorio\obj\Debug\net8.0\Ambulatorio.csproj.CoreCompileInputs.cache
+C:\Users\CursosTardes\source\repos\Ambulatorio\Ambulatorio\bin\Debug\net8.0\Ambulatorio.exe
+C:\Users\CursosTardes\source\repos\Ambulatorio\Ambulatorio\bin\Debug\net8.0\Ambulatorio.deps.json
+C:\Users\CursosTardes\source\repos\Ambulatorio\Ambulatorio\bin\Debug\net8.0\Ambulatorio.runtimeconfig.json
+C:\Users\CursosTardes\source\repos\Ambulatorio\Ambulatorio\bin\Debug\net8.0\Ambulatorio.dll
+C:\Users\CursosTardes\source\repos\Ambulatorio\Ambulatorio\bin\Debug\net8.0\Ambulatorio.pdb
+C:\Users\CursosTardes\source\repos\Ambulatorio\Ambulatorio\obj\Debug\net8.0\Ambulatorio.dll
+C:\Users\CursosTardes\source\repos\Ambulatorio\Ambulatorio\obj\Debug\net8.0\refint\Ambulatorio.dll
+C:\Users\CursosTardes\source\repos\Ambulatorio\Ambulatorio\obj\Debug\net8.0\Ambulatorio.pdb
+C:\Users\CursosTardes\source\repos\Ambulatorio\Ambulatorio\obj\Debug\net8.0\Ambulatorio.genruntimeconfig.cache
+C:\Users\CursosTardes\source\repos\Ambulatorio\Ambulatorio\obj\Debug\net8.0\ref\Ambulatorio.dll

@@ -1,0 +1,14 @@
+C:\Users\CursosTardes\source\repos\Conciertos\Conciertos\obj\Debug\net8.0\Conciertos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CursosTardes\source\repos\Conciertos\Conciertos\obj\Debug\net8.0\Conciertos.AssemblyInfoInputs.cache
+C:\Users\CursosTardes\source\repos\Conciertos\Conciertos\obj\Debug\net8.0\Conciertos.AssemblyInfo.cs
+C:\Users\CursosTardes\source\repos\Conciertos\Conciertos\obj\Debug\net8.0\Conciertos.csproj.CoreCompileInputs.cache
+C:\Users\CursosTardes\source\repos\Conciertos\Conciertos\bin\Debug\net8.0\Conciertos.exe
+C:\Users\CursosTardes\source\repos\Conciertos\Conciertos\bin\Debug\net8.0\Conciertos.deps.json
+C:\Users\CursosTardes\source\repos\Conciertos\Conciertos\bin\Debug\net8.0\Conciertos.runtimeconfig.json
+C:\Users\CursosTardes\source\repos\Conciertos\Conciertos\bin\Debug\net8.0\Conciertos.dll
+C:\Users\CursosTardes\source\repos\Conciertos\Conciertos\bin\Debug\net8.0\Conciertos.pdb
+C:\Users\CursosTardes\source\repos\Conciertos\Conciertos\obj\Debug\net8.0\Conciertos.dll
+C:\Users\CursosTardes\source\repos\Conciertos\Conciertos\obj\Debug\net8.0\refint\Conciertos.dll
+C:\Users\CursosTardes\source\repos\Conciertos\Conciertos\obj\Debug\net8.0\Conciertos.pdb
+C:\Users\CursosTardes\source\repos\Conciertos\Conciertos\obj\Debug\net8.0\Conciertos.genruntimeconfig.cache
+C:\Users\CursosTardes\source\repos\Conciertos\Conciertos\obj\Debug\net8.0\ref\Conciertos.dll
